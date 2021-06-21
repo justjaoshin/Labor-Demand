@@ -1,4 +1,4 @@
-# Labor-Demand
+# Labor-Supply-and-Demand
 
 ## Visualizing Labor Demand for Nurses in Virginia
 - Built a web-scraper in Python (Beautiful Soup) to collect online job postings data and to benchmark external compensation data with pre-COVID 19 compensation market rates
